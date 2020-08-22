@@ -489,7 +489,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #2AD7A8;
+  color: #2d744b;
 }
 
 .about .content .count-box {
@@ -520,7 +520,7 @@ section {
 }
 
 #pdf:hover {
-  border: 1px solid #2AD7A8;
+  border: 1px solid #2d744b;
     color: #444444;
   -webkit-box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);
 -moz-box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);
@@ -554,11 +554,11 @@ box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);}
 }
 
 #pdf:hover .icofont-download-alt {
-  color: #2AD7A8;
+  color: #2d744b;
 }
 
 #pdf:hover .icofont-document-folder {
-  color: #2AD7A8;
+  color: #2d744b;
 }
 
 .icofont-clip {
@@ -673,7 +673,7 @@ box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);}
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #1B6D7C;
+  color: #2d744b;
   margin-bottom: 10px;
 }
 
