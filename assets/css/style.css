@@ -609,15 +609,10 @@ box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);}
 }
 
 .about .image {
-  background: url("../img/me.png") center center no-repeat;
+  background: url("../img/me.png") top center no-repeat;
   transition: all 0.5s;
   background-size: cover;
   min-height: 500px;
-}
-
-.about .image:hover {
-  background: url("../img/me.png") center center no-repeat;
-  background-size: cover;
 }
 
 .about .skills-content {
