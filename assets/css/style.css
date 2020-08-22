@@ -932,6 +932,14 @@ box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);}
 /*--------------------------------------------------------------
 # Other titles
 --------------------------------------------------------------*/
+.othertitles {
+  padding: 80px 0;
+  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+
 .lia:hover lia {
   color: #2AD7A8;
 }
@@ -1076,6 +1084,20 @@ color: #2AD7A8;
     content: "\ea9d";
   }
 }
+
+@media (min-width: 1px) {
+  .othertitles {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 992px) {
+  .othertitles .othertitles-item p {
+    width: 80%;
+  }
+}
+
+
 
 /*--------------------------------------------------------------
 # Footer
