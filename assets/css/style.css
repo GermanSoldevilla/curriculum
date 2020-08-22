@@ -608,7 +608,7 @@ box-shadow: 0px 0px 17px 5px rgba(240,224,141,0.58);}
 }
 
 .about .image:hover {
-  background: url("../img/me4.png") center center no-repeat;
+  background: url("../img/me.png") center center no-repeat;
   background-size: cover;
 }
 
